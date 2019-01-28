@@ -1,6 +1,6 @@
 <?php
 
-namespace App;
+namespace Wisdmlabs\Todolist;
 
 use Illuminate\Database\Eloquent\Model;
 
