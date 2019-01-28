@@ -34,7 +34,7 @@
     "autoload": {
         "psr-4": {
             "App\\": "app/",
-            "WisdmLabs\\Todolist\\": "packages/wisdmlabs/todolist/src/"
+            "Wisdmlabs\\Todolist\\": "packages/wisdmlabs/todolist/src"
         },
         "classmap": [
             "database/seeds",
