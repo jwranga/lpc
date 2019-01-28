@@ -1,0 +1,11 @@
+{
+    "name": "wisdmlabs/todolist",
+    "description": "You can create the to-do-list of your task.",
+    "authors": [
+        {
+            "name": "Ranga Lakshitha",
+            "email": "ranga@ranga.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
