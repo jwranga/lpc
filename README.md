@@ -1,2 +1,2 @@
-# lpc
+# LPC
 Laravel Package Creation
